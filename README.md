@@ -2,8 +2,8 @@
 
 A simple weather app built with HTML, CSS, and JavaScript, using the OpenWeather API to fetch and display weather information for a given location.
 
-![Weather App Screenshot](![image](https://github.com/SHIVA-SHANKAR-REDDY/weather-app/assets/103198871/68ba3282-a452-40d6-b05d-ed3103164024)
-)
+![Weather App Screenshot](images/image1.png)
+![Weather App Screenshot](images/image2.png)
 
 ## Features
 
