@@ -59,6 +59,5 @@ JavaScript<br>
 OpenWeather API<br>
 # Acknowledgments
 Thanks to OpenWeather for providing a free API to fetch weather data.<br>
-This project was inspired by example-weather-app.
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
